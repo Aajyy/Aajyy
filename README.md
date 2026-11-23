@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ajay Yadav
 
-### 💻 Full Stack Developer | Web Developer
+### 💻  Jr. Full Stack Developer | Web Developer
 
 I am a passionate developer who loves building modern, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, and turning ideas into real-world projects.
 
